@@ -1,4 +1,4 @@
-# FoodOrder: Aplikasi Pemesanan Makanan dengan Material Design 3
+# Membuat Aplikasi Food Order
 
 Aplikasi Android pemesanan makanan sederhana yang dibuat dengan **Kotlin**, **Jetpack Compose**, dan **Material Design 3 (Material You)**. Dibuat sebagai tugas mata kuliah Pemrograman Perangkat Bergerak (PPB).
 
